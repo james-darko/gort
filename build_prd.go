@@ -1,4 +1,4 @@
-//go:build !dev
+//go:build prd
 
 package gort
 
